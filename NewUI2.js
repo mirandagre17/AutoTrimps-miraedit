@@ -94,7 +94,7 @@ function initializeAllTabs() {
     createTabs("Maps", "AutoMaps + VoidMaps related Settings");
     createTabs("Settings", "Sub Controls for the script");
     createTabs("genBTC", "GenBTC Advanced");
-    createTabs("Testing", "Uni's mods");
+    createTabs("Uni", "Uni's mods");
     createTabs("Scryer", "Scryer Stance");
     createTabs("Magma", "Dimensional Generator");
     createTabs("Golden", "Golden Upgrade Strategies");
