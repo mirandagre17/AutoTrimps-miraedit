@@ -438,7 +438,7 @@ function autoMap() {
             }
             //run Bionics before spire to farm.
             //TODO Spire II+??
-            if (getPageSetting('RunBionicBeforeSpire') && (game.global.world == getPageSetting('SpireLevel') && theMap.name.includes('Bionic Wonderland')){
+            if (getPageSetting('RunBionicBeforeSpire') && (game.global.world == getPageSetting('SpireLevel') && theMap.name.includes('Bionic Wonderland'))){
                 //this is how to check if a bionic is green or not.
                 var bionicnumber = 1 + ((theMap.level - 125) / 15);
                 //if numbers match, map is green, so run it. (do the pre-requisite bionics one at a time in order)
