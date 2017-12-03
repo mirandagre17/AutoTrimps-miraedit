@@ -14,7 +14,7 @@ var ATversion = '2.1.5.9-genbtc-11-13-2017+Mod+Uni+coderpatsy';
 ////////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////
 var atscript = document.getElementById('AutoTrimps-script')
-  , base = 'https://genbtc.github.io/AutoTrimps/'
+  , base = 'https://mirandagre17.github.io/AutoTrimps-miraedit'
   , module = 'modules/'
   ;
 if (atscript !== null) {
