@@ -1,3 +1,7 @@
+#Mira's Edit
+Cloned from https://github.com/genbtc/AutoTrimps/
+Wanted edits for spire and maps.
+
 # AutoTrimps + genBTC
 ![Donate](https://blockchain.info/Resources/buttons/donate_64.png)
 <a href="bitcoin:1genbtcPLjAEk6RnfC66chYniFKfP7vAS">1genbtcPLjAEk6RnfC66chYniFKfP7vAS</a><br />
