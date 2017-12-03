@@ -99,7 +99,7 @@ function initializeAllTabs() {
     createTabs("Magma", "Dimensional Generator");
     createTabs("Golden", "Golden Upgrade Strategies");
     createTabs("Nature", "Nature");
-    createTabs("Mira", "Mira");
+    //createTabs("Mira", "Mira");
     createTabs("Spam", "Controls AutoTrimps message Spam");
     createTabs("Import Export", "Import Export Settings");
     //add a minimize button:
@@ -296,7 +296,7 @@ function initializeAllSettings() {
     createSetting('AutoIce', 'Ice', 'Spend/convert Ice tokens', 'dropdown', 'Off', ['Off', 'Empowerment', 'Transfer', 'Convert to Poison', 'Convert to Wind'], 'Nature');
     
 //Mira settings:
-	createSetting('SpireLevel', 'Spire Level', 'What spire are you on, ex 200, 300, 400', 'value', '200', null, 'Mira');
+	createSetting('SpireLevel', 'Spire Level', 'What spire are you on, ex 200, 300, 400', 'value', '200', null, 'Nature');
 
 //Spam settings:
     createSetting('SpamGeneral', 'General Spam', 'General Spam = Starting Zone, Auto He/Hr, AutoMagmiteSpender ', 'boolean', true, null, 'Spam');
